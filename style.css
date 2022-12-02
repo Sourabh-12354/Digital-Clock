@@ -1,0 +1,13 @@
+body{
+    background-color: #000;
+}
+#clockDisplay{
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 80px;
+    border: 1px solid grey;
+    padding: 0px 5px 0px 5px;
+}
